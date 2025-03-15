@@ -8,7 +8,7 @@ dynamic = ["version"]
 authors = [
     {name = "GeoEngineer Contributors", email = "geoengineerai@gmail.com"},
 ]
-description = "A simple geotechnical engineering package"
+description = "The official Python library for the GeoEngineerAI API"
 readme = "README.md"
 requires-python = ">=3.6"
 classifiers = [

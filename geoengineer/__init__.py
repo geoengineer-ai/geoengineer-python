@@ -1,5 +1,5 @@
 """
-GeoEngineer - A simple geotechnical engineering package.
+GeoEngineer - The official Python library for the GeoEngineerAI API.
 
 This package provides functions for geotechnical engineering calculations.
 """
