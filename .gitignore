@@ -114,6 +114,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# PyPI configuration
+.pypirc
+.pypirc_template
+
 # macOS specific files
 .DS_Store
 
